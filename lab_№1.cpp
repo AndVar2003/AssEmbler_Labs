@@ -1,6 +1,6 @@
 ﻿// lab_№1.cpp : Этот файл содержит функцию "main". Здесь начинается и заканчивается выполнение программы.
 //
-
+// VARIANT 5
 #include <iostream>
 #include <cmath>
 using namespace std;
